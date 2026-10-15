@@ -2,7 +2,7 @@
   "name": "MY Wallet - Sri Lankan Rupees",
   "short_name": "MY Wallet",
   "description": "Personal income, expenses, budget and dues tracker in Sri Lankan Rupees.",
-  "start_url": "./index.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
@@ -19,7 +19,14 @@
       "src": "icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
-  ]
+  ],
+  "id": "./"
 }
